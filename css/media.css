@@ -1,0 +1,192 @@
+@media (max-width: 1200px) {
+    #hero {
+        background: url("../images/bg (5).png") no-repeat center/cover;
+    }
+    .come-won{
+        display: block;
+    }
+    .react{
+        margin-left: 152px;
+        margin-top: 91px;
+    }
+    .third-card-bg{
+        margin-left: -1px;
+    }
+    .link{
+        margin-left: 61px;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .mobile-menu {
+        display: block;
+        background: none;
+        border: none;
+        z-index: 100;
+        color: white;
+
+        margin-right: 22px;
+    }
+
+    .header-item {
+        margin-bottom: 10px;
+        margin-left: -37px;
+    }
+
+    .header-nav {
+        display: none;
+        width: 50%;
+        background-color: darkgrey;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        z-index: 9;
+    }
+
+    .show {
+        display: flex;
+    }
+}
+
+@media (max-width: 768px) {
+ .capabilities-info{
+     display: block;
+     margin: 0 30px 50px 30px;
+ }
+    .stories{
+        margin-left: 3px;
+    }
+    .third-card-bg{
+        margin-left: 97px;
+    }
+    .caption{
+        display: block;
+        margin-left: 378px;
+    }
+    .col-4{
+        width: 201px;
+        margin-left: -37px;
+    }
+    .capabilities-card{
+        margin-bottom: 50px;
+        margin-left: -134px;
+        width: 273px;
+    }
+    .link{
+        margin-left: 63px;
+
+    }
+
+    .first-card-bg{
+        margin-left: 104px;
+    }
+    .second-card-bg{
+        width: 139px;
+        margin-left: 99px;
+    }
+    .team-socials{
+        display: grid;
+    }
+    .team-socials-item{
+        margin-bottom: 15px;
+    }
+    .react{
+        margin-left: 93px;
+    }
+}
+@media (max-width: 425px) {
+.hero-title{
+    text-align: center;
+}
+    .story-suptitle {
+        margin-left: -22px;
+    }
+
+    .story-subtitle{
+
+        margin-left: -21px;
+    }
+
+    .second-card-bg{
+        margin-left: 102px;
+margin-bottom: 50px;
+    }
+    .third-card-bg{
+        margin-left: 106px;
+
+    }
+    .capabilities-card{
+        margin-left: -283px;
+        width: 229px;
+    }
+    #sign-up{
+        display: block;
+        padding: 20px 20px 0 13px;
+
+    }
+    .sign-up-title{
+      padding-bottom: 24px;
+    }
+    .company-one{
+        display: block;
+    }
+    .company-second{
+        margin-left: 0;
+    }
+    .company-third{
+        margin: 30px 0 0;
+    }
+    .company-five{
+        margin-left: 0;
+        display: grid;
+    }
+    .team-socials{
+        margin-top: 30px;
+        display: block;
+    }
+    .company{
+        height: 825px;
+    }
+    .stories{
+display: block;
+        margin-left: -25px;
+    }
+    .help{
+        margin-bottom: 50px;
+    }
+}
+@media (max-width: 375px){
+    .hero-title{
+        font-size: 47px;
+    }
+    .hero-desc{
+        text-align: center;
+        font-size: 18px;
+    }
+    .story-subtitle{
+        margin-top: 192px;
+        position: absolute;
+    }
+    .story-suptitle{
+        position: absolute;
+    }
+    .stories{
+        margin-left: -53px;
+    }
+
+    .first-card-bg{
+        margin-left: 102px;
+        margin-top: 422px;
+    }
+
+    .capabilities-card{
+        margin-left: -313px;
+    }
+}
+
+
